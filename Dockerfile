@@ -1,4 +1,4 @@
-FROM fedora:37
+FROM fedora:38
 
 LABEL maintainer="mullholland"
 LABEL build_update="2022-12-11"
